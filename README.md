@@ -1,1 +1,3 @@
-# Ejercicio-Intermedio-M-dulo-2-Jenn
+# Ejercicio-Intermedio-Modulo-2-Jenn
+
+#Juego piedra papel o tijera
